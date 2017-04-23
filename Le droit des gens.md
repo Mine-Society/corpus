@@ -21,17 +21,17 @@ Tu ne mépriseras pas les créatures par une exploitation intensive, ni le paysa
 
 ## Partie 1 : Jus gentum
 
-### Article 1. Les grandes nations
+#### Article 1. Les grandes nations
 
 Le conseil des sages, constitué par les gouvernements des grandes nations, ne reconnaît l’existence que des quatres grandes nations : Ethéria, Elsker, Neovinost et enfin l’Îles des Fondateurs. La grande nation contrôle le ban sur son territoire, et les méfaits de ses nationaux lui sont imputables.
 
-### Article 2. La répartition des pouvoirs
+#### Article 2. La répartition des pouvoirs
 
 En vertu de l’inébranlable principe international du droit des peuples à se gouverner eux-mêmes, les grandes nations édictent souverainement des lois conformes au traité des gentilhommes. Leurs systèmes devront relever d’un État de droit où le pouvoir contrôle le pouvoir. La division des trois pouvoirs, législatif, exécutif, et judiciaire, y sera respectée.
 
 Les Fondateurs exerceront leur suzeraineté en qualité de juge des lois, juge des gouvernements, juge des jurisprudences, afin de luter contre toutes formes d’arbitraire. Ces pouvoirs seront exercés sur l’Île des fondateurs lors des audiences exceptionnelles.
 
-### Article 3. Législation
+#### Article 3. Législation
 
 Les grandes nations sont tenues de développer un système juridique et une politique d’entreprise. Les grandes nations sont tenues de préserver les droits civils et politiques de leurs gens, dans un soucis d’égalité.
 
@@ -40,13 +40,13 @@ Les grandes nations sont tenues à un principe d’intelligibilité et de transp
 
 ## Partie 2: Les conseils internationaux
 
-_Section 1: Le conseil des nations_
+### Section 1: Le conseil des nations
 
-### Article 1. Description
+#### Article 1. Description
 
 Le conseil des nations est un organe chargé de s’assurer du bon fonctionnement général des Nations unies. Il est composé des trois fondateurs originels : Yrdaz, Manndermacht et Tudgwal, et des chefs des nations. Il se réunit à chaque fois que la nécessité s’en fait sentir.
 
-### Article 2. Pouvoirs ordinaires
+#### Article 2. Pouvoirs ordinaires
 
 Le conseil des nations dispose du pouvoir de produire des directives qui s’appliquent sur tout les états signataires. Celles-ci doivent cependant être générales, abstraites et doivent être absolument nécessaires au bon développement du serveur.
 
@@ -54,13 +54,13 @@ Il peut de surcroit décider à la majorité des quatre cinquièmes de la destit
 
 Le conseil des nations peut à la majorité décider de la révision du présent traité.
 
-### Article 3. Pouvoir martial
+#### Article 3. Pouvoir martial
 
 En cas de déclaration de guerre ouverte, le conseil organise les modalités d’organisation du conflit. Les membres fondateurs peuvent cependant décider à l’unanimité d’empêcher le conflit militaire si ce dernier constitue un risque pour la stabilité du serveur.
 
-_Section 2: Les conseils des sages_
+### Section 2: Les conseils des sages
 
-### Article 4. Pouvoir d’administration
+#### Article 4. Pouvoir d’administration
 
 Le conseil des sages, composé des trois fondateurs, est un organe chargé de l’administration générale du serveur. Il guide les nations vers la prospérité, tout en s’assurant du respect des principes généraux qu’il a établi, et, par des mesures de contrôle, s’assure que le droit et les procédures sont respectées.
 
@@ -68,11 +68,11 @@ Pour ce faire, le conseil des sages peut prononcer des avis sur les politiques m
 
 Enfin, le conseil des sages s’occupe de toutes les décisions qui relèvent de la gestion technique du serveur. Nul autre que lui ne peut assurer cette charge.
 
-### Article 6. Présidence par intérim
+#### Article 6. Présidence par intérim
 
 Si une nation est dans l’incapacité de désigner un chef d’État, la nation est alors dirigée par le présent conseil qui doit alors mettre tout en oeuvre pour résoudre la situation.
 
-### Article 7. Le pouvoir de contrôle
+#### Article 7. Le pouvoir de contrôle
 
 La fonction de contrôle exercé par le conseil des sages se divise en trois branches aux règles de fonctionnement distinct:
 
@@ -82,33 +82,33 @@ Le contrôle de constitutionnalité et de conventionnalité des lois.
 
 Le contrôle de légalité, de conventionnalité et de constitutionnalité des décisions de justice.
 
-### Article 8. Rôle du Tribunal administratif international
+#### Article 8. Rôle du Tribunal administratif international
 
 Le contrôle de légalité et de conventionnalité des actes administratifs est exercé par le Tribunal administratif international. Il est dirigé par le fondateur Tudgwal sur les conseils des autres fondateurs. Il veille a ce que les actes administratifs soient conformes a l’ordre juridique et que les dirigeants ou les policiers n’abusent pas de leurs pouvoirs. Il est saisi par quiconque y a intérêt.
 
-### Article 9. Rôle de la Haute cour constitutionnelle
+#### Article 9. Rôle de la Haute cour constitutionnelle
 
 Le contrôle de constitutionnalité et de conventionnalité des loi est exercé par la Haute cour constitutionnelle. Les décisions sont rendues par Yrdaz mais doivent tenir compte des avis des autres membres. Elle peut s’autosaisir
 
-### Article 10. Rôle de la Cour de cassation
+#### Article 10. Rôle de la Cour de cassation
 
 Le contrôle des décisions de justice est exercé par la haute Cour de cassation. Le fondateur Manndermacht peut casser et annuler une décision des juges du fond après délibération du conseil des sages en formation plénière si celle-ci ne respecte pas les normes s’appliquant au cas d’espèce.
 
-##Partie 3 : Jus belli
+## Partie 3 : Jus belli
 
-### Article 1. Casus belli
+#### Article 1. Casus belli
 
 Toute méconnaissance des principes susvisés du présent traité pourra constituer un casus belli avec les nations concurrentes. Les assauts destinés ou ayant pour conséquence de porter atteinte à l’économie d’une nation ou sa population constituent également des casus belli.
 
 L’État doit impérativement entrer dans une phase de négociation, puis recourir à l’arsenal économique avant toute déclaration de guerre ouverte. La preuve de l’échec des négociations lui incombe.
 
-### Article 2. L’arsenal économique
+#### Article 2. L’arsenal économique
 
 Un ou plusieurs État peuvent décider de pratiquer des politiques protectionnistes ou de boycot après dépôt d’une déclaration de casus belli auprès des Fondateurs et des gouvernements des États concernés.
 
 Les États peuvent également procéder à des nationalisations d’entreprises étrangères établies sur leurs territoires, dans les cas les plus extrêmes, à charge pour l’État concurrent d’indemniser les propriétaires. Les propriétaires doivent retrouver la possession de leurs biens sans délais dès la résolution du conflit.
 
-### Article 3. L’arsenal militaire.
+#### Article 3. L’arsenal militaire.
 
 Un ou plusieurs État peuvent décider de lancer l’assaut sur la forteresse ennemie après dépôt d’une déclaration de guerre ouverte auprès des Fondateurs et des gouvernements des États concernés.
 

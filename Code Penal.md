@@ -1,10 +1,10 @@
-# Code pénal
+# Code pénal
 
 Le présent Code pénal est provisoire, il deviendra permanent par décision des états généraux d’Euthéria.
 
 ## Chapitre premier – Dispositions générales
 
-#### Article 1 – Articulation des dispositions
+#### Article 1 – Articulation des dispositions
 
 Les dispositions du présent code bénéficient d’une numérotation continue. Les décrets précisant les lois sont codifiés sous les articles concernés. La jurisprudence peut être précisée à la suite d’une manière suffisamment distincte.
 
@@ -54,9 +54,9 @@ Les animaux sont des êtres sensibles méritant le respect. Ils doivent bénéfi
 
 L’espace minimum de vie est d’un animal par deux blocs, un en ce qui concerne les poules, exception faite des espaces d’abatage dans les industries.
 
-## Chapitre trois – Les atteintes aux biens
+## Chapitre trois – Les atteintes aux biens
 
-#### Article 8 – Les vols et atteintes assimilées
+#### Article 8 – Les vols et atteintes assimilées
 
 Le vol, le faux, la contrefaçon, l’escroquerie et l’abus de confiance sont passibles d’une peine de trois semaines de prison et de 3000 Thaleurs d’amende. Lorsqu’ils sont minimes, le juge peut substituer à ces peines la restitution de la valeur de la chose, jusqu’à son triple.
 
@@ -70,7 +70,7 @@ L’escroquerie est une manœuvre frauduleuse et notamment un mensonge destiné 
 
 L’abus de confiance consiste à se faire remettre un bien ou une valeur et à refuser de la restituer passé un certain délai.
 
-#### Article 9 – Les griefs
+#### Article 9 – Les griefs
 
 Le grief de passage ou de visite est passible de 500 Thaleurs d’amande, 1000 en cas de récidive. Le grief motivé par le gain est passible du double et de 3 jours de prison.
 
@@ -80,11 +80,11 @@ Le grief est le fait de porter atteinte volontairement aux constructions d’aut
 
 ## Chapitre quatre – Les atteintes à l’économie
 
-#### Article 10 – La production massive
+#### Article 10 – La production massive
 
 Le fait de produire ou de diffuser massivement des biens en dehors de l’exploitation d’une entreprise sera passible d’une peine de prison de deux jours, une amende de 500 Thaleurs et peut être condamné à réduire ou détruire l’infrastructure de production.
 
-#### Article 11 – Les usines
+#### Article 11 – Les usines
 
 L’exploitation des usines de production automatique de ressources quelconques est interdite, sauf autorisation spéciale du gouvernement qui peut être demandé par une entreprise. Les modalités spécifiques sont déterminées par décret
 
@@ -94,7 +94,7 @@ LLes usines de production semi-automatiques et vivrières, c’est-à-dire rése
 
 La mise à disposition, même à titre gratuit, d’usine automatique ou semi-automatique est interdite, sauf autorisation spéciale du gouvernement. En cas de réalisation de machine automatique quelconque sans autorisation, l’accusé sera passible d’une amende de 1000 tr ainsi la destruction de la machine et en cas de récidive s’ajoute a cette peine une amende de 1000 tr ainsi qu’un séjour en prison d’une durée de 7 jours maximal. Je précise qu’une machine 100% automatique n’est pas obligé de contenir une quelconque système redstone. Une machine automatique l’est lorsque la machine produit sans la présence d’un joueur.
 
-#### Article 12 – La triche
+#### Article 12 – La triche
 
 Tout type de fraude ou de triche est passible d’une peine de prison de 2 semaines.
 
@@ -126,6 +126,6 @@ Le fait de creuser afin de miner ou de profiter d’une ressource du tréfonds d
 
 Des exceptions à l’article 15 peuvent être accordé par les autorités administratives compétentes de la République d’Euthéria.
 
-#### Article 16 – La corruption
+#### Article 16 – La corruption
 
 La corruption et la tentative de corruption d’agents, fonctionnaires et représentants sont passibles de 15 jours de prison. Le moyen de corruption peut être confisqué. Le corrompu perd ses titres en cas de récidive. Il est passible d’une interdiction de candidater à poste public ou un poste à responsabilité dans le secteur privé pendant un mois.

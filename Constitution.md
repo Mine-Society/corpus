@@ -1,12 +1,12 @@
 # Constitution
 
-## Préambule
+## Préambule
 
 Les fondateurs se sont réunis pour créer un havre de paix destiné à accueillir les lambeaux de l’humanité. La nation naissante proclame son attachement aux principes de liberté, de fraternité, de respect, de transparence et de démocratie. Elle reconnait le traité des gentilshommes et les valeurs qui en découlent.
 
 En ce jour de gloire commence le premier mois de notre ère.
 
-#### Article préliminaire – principes fondamentaux de la république
+#### Article préliminaire – principes fondamentaux de la république
 
 La république d’Euthéria est une république centralisée. Elle reconnaît la liberté des hommes et opère par bienveillance afin d’organiser leur prospérité. Chacun a le droit au travail, au logement et à la préservation de ses intérêts. Tout les citoyens sont égaux devant la loi.
 
@@ -14,11 +14,11 @@ La devise de la république est « l’ordre par le droit, la loi par le peuple 
 
 Les traités internationaux priment sur l’ordre juridique national.
 
-## Partie 1 – L’exercice du droit de vote
+## Partie 1 – L’exercice du droit de vote
 
 Article 1 –  Seul les joueurs ayant obtenu la citoyenneté, résidant en ville et disposant de leurs droits civiques disposent du droit de voter aux différentes consultations. Le scrutin est toujours universelle secret et directe.
 
-## Partie 2 – Le chef de l’Etat
+## Partie 2 – Le chef de l’Etat
 
 Article 2 – Le chef de l’Etat est seul détenteur du pouvoir exécutif. Il veille au respect de la constitution et conduit la politique de la nation. Il est le chef des armées et décide seul du budget militaire. Il prépare et propose le budget de l’Etat. Il est garant de la sécurité du territoire et du respect des traités. Il peut nommer des conseillers dont l’avis est consultatif.
 
@@ -69,9 +69,7 @@ Article 14 – Les textes qui ne sont pas du domaine de la loi ont un caractère
 
 ## Partie 5 – Le pouvoir judiciaire
 
-Article 15 –
-
-Les mages sont les jurislateurs disposés à trancher les litiges en droit et au fond mais aussi consacrer les règles de droit émergeant des usages et de la raison. Les mages sont désignés par tirage au sort parmi les juristes officiels de la république. Ils sont assistés par deux assesseurs élus mensuellement par les citoyens. Il leur incombe la lourde tache de trancher les litiges et de transmettre la connaissance et la compréhension de la loi.
+Article 15 – Les mages sont les jurislateurs disposés à trancher les litiges en droit et au fond mais aussi consacrer les règles de droit émergeant des usages et de la raison. Les mages sont désignés par tirage au sort parmi les juristes officiels de la république. Ils sont assistés par deux assesseurs élus mensuellement par les citoyens. Il leur incombe la lourde tache de trancher les litiges et de transmettre la connaissance et la compréhension de la loi.
 
 Article 16 – Le procureur est un mage chargé de l’application des procédures judiciaires. Les autorités de police lui rapportent les infractions et il est chargé de décider des poursuites. Le procureur doit aussi demander des enquêtes de police à chaque fois que cela lui semble nécessaire.
 

@@ -1,14 +1,14 @@
-# Code civil
+# Code civil
 
 Le présent Code civil est provisoire, il deviendra permanent par décision des états généraux d’Euthéria.
 
-## Chapitre 1 : Dispositions préliminaires
+## Chapitre 1 : Dispositions préliminaires
 
 #### Article 1 – Articulation des dispositions
 
 Les dispositions du présent code bénéficient d’une numérotation continue. Les décrets précisant les lois sont codifiées sous les articles concernés. La jurisprudence peut être précisée à la suite d’une manière suffisamment distincte.
 
-#### Article 2 – Publication des lois
+#### Article 2 – Publication des lois
 
 Les lois ne prennent effet qu’au lendemain de leur publication.
 
@@ -20,9 +20,9 @@ Pour toute action en justice, au civile comme au pénal, la représentation par 
 
 Les affaires inscrites au rôle sont tranchées dans les trois semaines au plus tard.
 
-## Chapitre 2 : Le droit des personnes
+## Chapitre 2 : Le droit des personnes
 
-#### Article 4 – L’acquisition de la citoyenneté
+#### Article 4 – L’acquisition de la citoyenneté
 
 À la naissance du joueur, lors de sa première connexion, il porte le titre de visiteur et n’acquiert la qualité de citoyen qu’après avoir rempli les formalités nécessaires sur le forum de Mine-society (cliquer ici).
 
@@ -84,7 +84,7 @@ Si les avocats, le juge ou les jurés émettent un doute quant à l’authentici
 
 ## Chapitre trois – Le droit de propriété
 
-#### Article 11 – Dispositions préliminaires
+#### Article 11 – Dispositions préliminaires
 
 Le droit de propriété est le pouvoir exercé par une personne sur un bien, nul ne peut en être privé si ce n’est pour cause d’utilité publique impérieuse et sous condition d’indemnisation. Les collectivités territoriales et la capitale sont investies du pouvoir spécial d’arrêter des réglementations des constructions sur leurs territoire et leurs espace d’influence, dans le respect des décrets et lois qui leurs sont supérieurs.
 
@@ -128,7 +128,7 @@ Assouplissement de la règle lorsque :
 
 – une construction s’inspire des constructions avoisinantes dans un souci d’harmonie architecturale.
 
-### Section deuxième – Les droits du propriétaire
+### Section deuxième – Les droits du propriétaire
 
 #### Article 15 – Le droit de propriété absolu
 
@@ -140,7 +140,7 @@ Est assimilé à l’abus toute pratique ayant pour objet ou pour effet d’entr
 
 Trouble son voisinage le constructeur qui substitut à une vue appréciable celle d’un bâtiment massif, cubique et/ou que le bon goût condamnerait.
 
-#### Article 16 – Le lotissement
+#### Article 16 – Le lotissement
 
 Le lotissement, division d’un terrain propriété en plusieurs lots, met à la charge du lotisseur, public comme privé, l’obligation d’assurer un accès suffisant des propriétés à l’espace public. Les villes officielles ou candidates clarifient l’étendue des terrains vendus ou destinés à la vente par bornage au sol et par un moyen clair : blocs, route, rivière, barrière. La ville reste propriétaire et responsable de la borne.
 
@@ -158,7 +158,7 @@ Sous réserve d’arrêtés municipaux plus stricts, les caves ne doivent pas d�
 
 À défaut, la construction requiert le dépôt préalable d’un projet sur le forum, au risque de s’exposer à des sanctions pénales.
 
-#### Article 18 – Le droit de propriété exclusif
+#### Article 18 – Le droit de propriété exclusif
 
 Le droit de propriété est exclusif, mais il est possible de convenir le contraire. Lorsqu’il n’est pas possible d’identifier un constructeur principal, ils se partagent la propriété de l’aménagement.
 
@@ -172,9 +172,9 @@ Les meubles abandonnés dans les conditions de l’article 6 intègrent le domai
 
 Si un joueur se reconnecte au-delà des délais impartis, il peut demander à être réintégré sans frais dans sa propriété si celle-ci n’a pas encore été saisie ni occupée. Il ne peut se plaindre des dégradations occasionnées.
 
-## Chapitre quatre – Le droit des obligations
+## Chapitre quatre – Le droit des obligations
 
-#### Article 20 – Les conditions pour former un contrat
+#### Article 20 – Les conditions pour former un contrat
 
 Les parties ne sont engagées par un contrat que si les conditions suivantes sont remplies :
 
